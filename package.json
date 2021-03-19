@@ -1,0 +1,11 @@
+{
+  "name": "cerealis_ra",
+  "version": "1.0.0",
+  "description": "Projet EPSI MSPR « Conception d’une solution applicative en temps réel et",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
